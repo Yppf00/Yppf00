@@ -6,7 +6,8 @@ I am a full stack front end web developer.
 
 
 
-Skills: HTML / CSS/ SCSS / FIGMA / BOOTSTRAP / TAILWINDCSS
+## Skills:
+*CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yppf00)  
 
