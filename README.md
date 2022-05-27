@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, my name is Velibor
+#### Web Development
+![Web Development](https://miro.medium.com/max/1400/1*HIfsUtFiqFhEePcF1dK89A.jpeg)
 
-I'm Velibor from Bosnia and Hercegovina and I am a full stack front end web developer.Lost my old GitHub account :(
+I'm Velibor from Bosnia and Hercegovina and I am a full stack front end web developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yppf00)](https://github.com/anuraghazra/github-readme-stats)
+Skills: HTML / CSS/ SCSS / FIGMA / BOOTSTRAP / TAILWINDCSS
