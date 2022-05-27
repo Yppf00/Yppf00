@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Velibor
 
-I am a hobby programmer from Bosnia and Hercegovina and I am a full stack front end web developer.
+I am a full stack front end web developer.
 
 ![Web Development](https://miro.medium.com/max/1400/1*HIfsUtFiqFhEePcF1dK89A.jpeg)
 
