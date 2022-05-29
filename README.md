@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Velibor
+### Hi there, my name is Velibor
 
 I am a full stack front end web developer.
 
