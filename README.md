@@ -2,7 +2,7 @@
 
 I am a full stack front end web developer.
 
-![Web Development](https://miro.medium.com/max/1400/1*HIfsUtFiqFhEePcF1dK89A.jpeg)
+![Web Development]([https://miro.medium.com/max/1400/1*HIfsUtFiqFhEePcF1dK89A.jpeg](https://i.pinimg.com/originals/5a/96/ee/5a96ee0f7be140a5649d1b2c2f3af320.png))
 
 
 
