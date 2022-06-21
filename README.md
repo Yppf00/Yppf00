@@ -2,9 +2,6 @@
 
 I am a full stack front end web developer.
 
-<img src="[[[https://i.pinimg.com/originals/5a/96/ee/5a96ee0f7be140a5649d1b2c2f3af320.png](https://cdn5.vectorstock.com/i/1000x1000/30/99/abstract-purple-liquid-background-for-your-website-vector-23353099.jpg)](https://www.cssdesignawards.com/cdasites/2019/201901/20190131215927.jpg)](https://miro.medium.com/max/1400/0*TU5Lr8shSD5GLYJP.jpg)" width="800"></img>
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
