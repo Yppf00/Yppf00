@@ -2,7 +2,7 @@
 
 I am a full stack front end web developer.
 
-<img src="[[https://i.pinimg.com/originals/5a/96/ee/5a96ee0f7be140a5649d1b2c2f3af320.png](https://cdn5.vectorstock.com/i/1000x1000/30/99/abstract-purple-liquid-background-for-your-website-vector-23353099.jpg)](https://www.cssdesignawards.com/cdasites/2019/201901/20190131215927.jpg)" width="800"></img>
+<img src="[[[https://i.pinimg.com/originals/5a/96/ee/5a96ee0f7be140a5649d1b2c2f3af320.png](https://cdn5.vectorstock.com/i/1000x1000/30/99/abstract-purple-liquid-background-for-your-website-vector-23353099.jpg)](https://www.cssdesignawards.com/cdasites/2019/201901/20190131215927.jpg)](https://miro.medium.com/max/1400/0*TU5Lr8shSD5GLYJP.jpg)" width="800"></img>
 
 
 
